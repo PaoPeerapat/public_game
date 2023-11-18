@@ -1,0 +1,32 @@
+[
+  {
+    "name": "xxx",
+    "rating": 4.1,
+    "price": 48.0
+  },
+  {
+    "name": "xxx",
+    "rating": 4.5,
+    "price": 42.0
+  },
+  {
+    "name": "xxx",
+    "rating": 3.7,
+    "price": 34.0
+  },
+  {
+    "name": "xxxx",
+    "rating": 5.0,
+    "price": 89.0
+  },
+  {
+    "name": "sxxx",
+    "rating": 4.8,
+    "price": 39.0
+  },
+  {
+    "name": "xxxx",
+    "rating": 2.5,
+    "price": 15.5
+  }
+]

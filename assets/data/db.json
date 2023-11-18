@@ -1,0 +1,121 @@
+{
+  "game": [
+    {
+      "id": 1,
+      "name": "game dog",
+      "price": 120
+    },
+    {
+      "id": 2,
+      "name": "dog game",
+      "price": 60
+    },
+    {
+      "id": 3,
+      "name": "chicken game",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "x",
+      "price": 20
+    },
+    {
+      "id": 5,
+      "name": "spider man",
+      "price": 35
+    },
+    {
+      "id": 6,
+      "name": "HxH",
+      "price": 15
+    },
+    {
+      "name": "xxx",
+      "price": 60,
+      "id": 7
+    },
+    {
+      "name": "เกมหมา",
+      "price": 200,
+      "id": 8
+    },
+    {
+      "name": "เกมหมา",
+      "price": 20,
+      "id": 9
+    },
+    {
+      "name": "gd",
+      "price": 20,
+      "rating": 2,
+      "id": 10
+    },
+    {
+      "name": "เกมหมา",
+      "price": 20,
+      "id": 11
+    },
+    {
+      "name": "ดห",
+      "price": 120,
+      "id": 12
+    },
+    {
+      "name": "gss",
+      "price": 12,
+      "id": 13
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "gameId": 1,
+      "userId": 1,
+      "review": "good",
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "gameId": 2,
+      "userId": 1,
+      "review": "very good",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "gameId": 4,
+      "userId": 1,
+      "review": "epic",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "gameId": 3,
+      "userId": 1,
+      "review": "dog_game",
+      "rating": 2
+    },
+    {
+      "id": 5,
+      "gameId": 5,
+      "userId": 1,
+      "review": "dog shit game",
+      "rating": 1
+    },
+    {
+      "id": 6,
+      "gameId": 4,
+      "userId": 1,
+      "review": "very good",
+      "rating": 4
+    },
+    {
+      "id": 7,
+      "gameId": 1,
+      "userId": 1,
+      "review": "good",
+      "rating": 3
+    }
+  ]
+}
